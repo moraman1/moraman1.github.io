@@ -20,7 +20,7 @@ title                    : "여기 머물다"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MORAMAN1"
-description              : "여기가 블로그"
+description              : "호기심으로 이것저것 시도하는 사람의 블로그"
 url                      : "https://moraman1.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "MORAMAN1"
+  name             : "평범한 직딩"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "여기 머물다"
-  location         : "Somewhere"
+  bio              : "호기심으로 이것저것 시도하는 사람"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
@@ -210,7 +210,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
